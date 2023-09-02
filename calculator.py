@@ -40,9 +40,6 @@ while calculating:
     if cont == "n":
         calculating2 = False
     calculating2 = True
-
-
-
     while calculating2:
         if cont == "y":
             for operations in functions:
